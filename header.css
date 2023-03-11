@@ -23,6 +23,12 @@
     box-shadow: rgb(0 0 0 / 16%) 0px 10px 36px 0px, rgb(0 0 0 / 6%) 0px 0px 0px 1px;
     background-color: var(--white);
 }
+.menu{
+    display: none;
+}
+.cancel{
+    display: none;
+}
 
 nav ul {
     display: flex;
@@ -34,7 +40,7 @@ nav ul li a {
    color: #fff;
     font-weight: 600;
     font-size: 17px;
-    transition: all 0.3s;
+    
 }
 nav ul li a:hover {
     color: #ed1575;

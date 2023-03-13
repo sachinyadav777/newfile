@@ -212,4 +212,7 @@
     .page p{
         font-size: 15px;
     }
+    .page-button a , .page-button i{
+        font-size: 13px;
+    }
 }
